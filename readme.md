@@ -1,4 +1,5 @@
 # BMI160 Module Tester
+![preview](https://github.com/wb1016/bmi160-module-tester/raw/main/2dpreview.png)\
 this is made to test common BMI160 IMU module board. especially in i2c mode.
 ## how to edit/load
 open EasyEDA and import.
