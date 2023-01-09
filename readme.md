@@ -9,3 +9,5 @@ import them on EasyEDA and click 'Order PCB' or download gerber files and send t
 1. make solder blobs on copper pad or solder pogo pins.
 2. put the IMU module at the place.
 3. screw down tight with M3 bolts and nuts.
+## jumper
+SAO and GND is connected with cut jumper to set i2c address to 0x68. if you want 0x69, cut the jumper.
